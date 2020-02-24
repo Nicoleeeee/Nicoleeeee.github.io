@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://tommy1123.com/"/>
-  <updated>2020-02-19T20:45:13.176Z</updated>
+  <updated>2020-02-24T19:20:25.147Z</updated>
   <id>http://tommy1123.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://tommy1123.com/2020/02/25/%E6%A6%82%E7%8E%87%E4%B8%93%E9%A2%98/"/>
+    <id>http://tommy1123.com/2020/02/25/%E6%A6%82%E7%8E%87%E4%B8%93%E9%A2%98/</id>
+    <published>2020-02-24T19:17:15.200Z</published>
+    <updated>2020-02-24T19:20:25.147Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="1001-King-Arthur’s-Birthday-Celebration"><a href="#1001-King-Arthur’s-Birthday-Celebration" class="headerlink" title="1001 King Arthur’s Birthday Celebration"></a>1001 King Arthur’s Birthday Celebration</h3><p>$$ E_i = \Sigma p(E_{i+1} + 2g_{i+1} + 1)$$</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;1001-King-Arthur’s-Birthday-C
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
